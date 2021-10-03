@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/poke-api-test/static/css/main.7f8397e4.chunk.css",
-    "main.js": "/poke-api-test/static/js/main.0bdd73e8.chunk.js",
-    "main.js.map": "/poke-api-test/static/js/main.0bdd73e8.chunk.js.map",
+    "main.js": "/poke-api-test/static/js/main.1785bb38.chunk.js",
+    "main.js.map": "/poke-api-test/static/js/main.1785bb38.chunk.js.map",
     "pokemon-details.css": "/poke-api-test/static/css/pokemon-details.232ec92f.chunk.css",
     "pokemon-details.js": "/poke-api-test/static/js/pokemon-details.3c135ff6.chunk.js",
     "pokemon-details.js.map": "/poke-api-test/static/js/pokemon-details.3c135ff6.chunk.js.map",
@@ -11,21 +11,21 @@
     "search-pokemons.css": "/poke-api-test/static/css/search-pokemons.87937a63.chunk.css",
     "search-pokemons.js": "/poke-api-test/static/js/search-pokemons.c1fc2635.chunk.js",
     "search-pokemons.js.map": "/poke-api-test/static/js/search-pokemons.c1fc2635.chunk.js.map",
-    "static/js/4.8cb1b054.chunk.js": "/poke-api-test/static/js/4.8cb1b054.chunk.js",
-    "static/js/4.8cb1b054.chunk.js.map": "/poke-api-test/static/js/4.8cb1b054.chunk.js.map",
+    "static/js/4.178ff6ba.chunk.js": "/poke-api-test/static/js/4.178ff6ba.chunk.js",
+    "static/js/4.178ff6ba.chunk.js.map": "/poke-api-test/static/js/4.178ff6ba.chunk.js.map",
     "static/js/5.23cead17.chunk.js": "/poke-api-test/static/js/5.23cead17.chunk.js",
     "static/js/5.23cead17.chunk.js.map": "/poke-api-test/static/js/5.23cead17.chunk.js.map",
     "index.html": "/poke-api-test/index.html",
     "static/css/main.7f8397e4.chunk.css.map": "/poke-api-test/static/css/main.7f8397e4.chunk.css.map",
     "static/css/pokemon-details.232ec92f.chunk.css.map": "/poke-api-test/static/css/pokemon-details.232ec92f.chunk.css.map",
     "static/css/search-pokemons.87937a63.chunk.css.map": "/poke-api-test/static/css/search-pokemons.87937a63.chunk.css.map",
-    "static/js/4.8cb1b054.chunk.js.LICENSE.txt": "/poke-api-test/static/js/4.8cb1b054.chunk.js.LICENSE.txt",
+    "static/js/4.178ff6ba.chunk.js.LICENSE.txt": "/poke-api-test/static/js/4.178ff6ba.chunk.js.LICENSE.txt",
     "static/media/pokeball.d57c1e68.png": "/poke-api-test/static/media/pokeball.d57c1e68.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ec624ec3.js",
-    "static/js/4.8cb1b054.chunk.js",
+    "static/js/4.178ff6ba.chunk.js",
     "static/css/main.7f8397e4.chunk.css",
-    "static/js/main.0bdd73e8.chunk.js"
+    "static/js/main.1785bb38.chunk.js"
   ]
 }
