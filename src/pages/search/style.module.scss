@@ -1,0 +1,44 @@
+@import "assets/styles/colors.scss";
+
+.wrapper {
+  .form_group {
+    margin: auto;
+    margin-top: 10%;
+    padding: 10px;
+    width: 60%;
+
+    input {
+      padding: 20px 40px;
+      width: 100%;
+      border-radius: 10px;
+      border: 5px solid $light-primary-accent;
+      margin-bottom: 20px;
+    }
+  }
+}
+
+.suggestion_wrapper {
+  list-style: none;
+
+  li {
+    padding: 20px 40px;
+    // border: 1px solid red;
+    margin: 10px 0;
+    display: block;
+    border-left: 5px solid $light-primary-accent;
+    cursor: pointer;
+    transition: 0.1s linear;
+
+    &:hover {
+      transform: scale(1.05);
+      border: 5px solid $light-primary-accent;
+    }
+  }
+}
+
+.info {
+  display: block;
+  margin: 10px 0;
+  font-size: 14px;
+  color: tomato;
+}

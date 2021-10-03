@@ -1,0 +1,12 @@
+.dark-theme {
+  background-color: $dark-bg;
+  color: $dark-primary;
+
+  * {
+    border-color: $dark-primary-accent !important;
+  }
+
+  a {
+    color: $dark-primary;
+  }
+}
